@@ -1,0 +1,43 @@
+# google
+own_google
+
+<!DOCTYPE HTML>
+<html>
+
+   <head>
+     <meta charset="UTF-8"/>
+     <title>Search system</title>
+     <link rel="stylesheet" type="text/css" href="stylee.css"/>
+
+
+	 <!----ir atsevišķs dokuments ar css---->
+	 <style type="text/css">
+		 
+	</style>	 
+   </head>
+   
+	<body>
+
+		<div id="navbar">		
+		<a href="характер.html">Post</a>
+		<a href="окрасы.html">Images</a>
+		</div>
+	</div>
+
+
+	<o>
+	<form action="http://google.com/search" target="index"  height="92" hspace="60" style="position:absolute;
+		left:46%; top:43%">
+	
+	<input type="search" name="q">
+	<input type="hidden" name="as_sitesearch" value="">
+	<input type="submit" value="search">
+</form></o>
+
+	<center><img src="google.png" width="269" height="92" hspace="60" style="position:absolute;
+	left:44%; top:33%">
+	</center>
+	
+
+	</body>
+</html>
