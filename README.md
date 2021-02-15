@@ -19,8 +19,8 @@ own_google
 	<body>
 
 		<div id="navbar">		
-		<a href="характер.html">Post</a>
-		<a href="окрасы.html">Images</a>
+		<a href="#">Post</a>
+		<a href="#">Images</a>
 		</div>
 	</div>
 
